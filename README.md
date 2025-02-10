@@ -1,1 +1,1 @@
-# dns_srever
+# dns_server
